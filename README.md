@@ -1,0 +1,2 @@
+# SkillsStatsLucene
+compile Java
